@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
 # scikit machine learning
 =======
 welcome to the repository!
